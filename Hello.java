@@ -11,6 +11,8 @@ public class Hello {
         System.out.println(3 - 5);
         System.out.println(3 * 4);
         System.out.println(4 / 2);
-        
+
+        // We are calling the method of another class inside this class.
+        Methods.sayHi();
     }
 }
