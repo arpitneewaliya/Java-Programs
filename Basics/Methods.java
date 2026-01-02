@@ -1,3 +1,4 @@
+package Basics;
 public class Methods {
     public static void main(String[] args) {
         sayHi();   
